@@ -1,5 +1,2 @@
 streamlit
-ComputerVisionClient
-OperationStatusCodes
-VisualFeatureTypes
 CognitiveServicesCredentials
