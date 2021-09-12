@@ -10,11 +10,12 @@ import sys
 import time
 import json
 
-with open('secret.json') as f:
-    secret = json.load(f)
+# with open('secret.json') as f:
+#     secret = json.load(f)
 
-KEY = secret['KEY']
-ENDPOINT = secret['ENDPOINT']
+KEY = "1573c70034d94ee0bb383377ba0d3bf4"
+ENDPOINT = "https://udemy20210908.cognitiveservices.azure.com/"
+}
 
 computervision_client = ComputerVisionClient(ENDPOINT, CognitiveServicesCredentials(KEY))
 
