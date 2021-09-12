@@ -13,8 +13,8 @@ import json
 # with open('secret.json') as f:
 #     secret = json.load(f)
 
-KEY = "1573c70034d94ee0bb383377ba0d3bf4"
-ENDPOINT = "https://udemy20210908.cognitiveservices.azure.com/"
+KEY = "secret"
+ENDPOINT = "secret"
 
 computervision_client = ComputerVisionClient(ENDPOINT, CognitiveServicesCredentials(KEY))
 
