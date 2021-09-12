@@ -1,3 +1,2 @@
 streamlit
-azure
-cognitiveservices
+azure-cognitiveservices-vision-computervision
