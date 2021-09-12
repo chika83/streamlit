@@ -1,2 +1,5 @@
 streamlit
-azure
+ComputerVisionClient
+OperationStatusCodes
+VisualFeatureTypes
+CognitiveServicesCredentials
